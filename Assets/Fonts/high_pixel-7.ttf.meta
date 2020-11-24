@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d124d476d01330a41be8eb798efd0ba2
+timeCreated: 1543305239
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: High Pixel-7
+  fontNames:
+  - High Pixel-7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
